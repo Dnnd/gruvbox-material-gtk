@@ -1665,7 +1665,7 @@ treeview.view acceleditor > label {
  * Menus
  */
 menubar {
-  background-color: #32302f;
+  background-color: #282828;
   color: #d4be98;
 }
 menubar:backdrop {
